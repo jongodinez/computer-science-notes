@@ -1,2 +1,2 @@
-# computer-science-notes
-Notes repo for computer science coursework
+# Computer Science Notes
+CS notes to accompany formal coursework.
